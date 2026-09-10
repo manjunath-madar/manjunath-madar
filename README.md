@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**manjunath-madar/manjunath-madar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Manjunath**, a 2nd-year Computer Science Engineering student.
 
-Here are some ideas to get you started:
+I enjoy solving problems, learning how software works, and building projects while improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 2nd Year Computer Science Engineering Student
+- ☕ Currently learning **Java & Data Structures and Algorithms**
+- 🌐 Learning **JavaScript & Web Development**
+- 🧩 Practicing problem solving with DSA
+- 🚀 Building projects to strengthen my development skills
+- 📚 Always learning and improving
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- C
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 📌 Current Focus
+
+```text
+Java & DSA
+    ↓
+JavaScript & Web Development
+    ↓
+Build Projects
+    ↓
+Backend Development
+    ↓
+Spring Boot & SQL
+    ↓
+Cloud & DevOps
