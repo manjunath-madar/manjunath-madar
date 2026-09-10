@@ -1,46 +1,29 @@
-# Hey there! 👋
+# Hi, I'm Manjunath 👋
 
-I'm **Manjunath**, a 2nd-year Computer Science Engineering student.
+I'm a 2nd-year Computer Science Engineering student focused on
+Java, DSA, and Web Development.
 
-I enjoy solving problems, learning how software works, and building projects while improving my development skills.
+I enjoy solving problems, learning new technologies, and building
+projects to improve my development skills.
 
-## 👨‍💻 About Me
+### What I'm Learning
 
-- 🎓 2nd Year Computer Science Engineering Student
-- ☕ Currently learning **Java & Data Structures and Algorithms**
-- 🌐 Learning **JavaScript & Web Development**
-- 🧩 Practicing problem solving with DSA
-- 🚀 Building projects to strengthen my development skills
-- 📚 Always learning and improving
+- ☕ Java & Data Structures
+- 🌐 JavaScript & Web Development
+- 🐙 Git & GitHub
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-### Languages
-- Java
-- C
-- JavaScript
+Java • C • JavaScript • HTML • CSS • Git • GitHub
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
+### Projects
 
-### Tools
-- Git
-- GitHub
-- VS Code
+I build small projects while learning and gradually work toward
+larger real-world applications.
 
-## 📌 Current Focus
+### Currently
 
-```text
-Java & DSA
-    ↓
-JavaScript & Web Development
-    ↓
-Build Projects
-    ↓
-Backend Development
-    ↓
-Spring Boot & SQL
-    ↓
-Cloud & DevOps
+🎓 2nd Year CSE Student  
+💻 Practicing Java & DSA  
+🌐 Building JavaScript projects  
+🚀 Preparing for software development opportunities
