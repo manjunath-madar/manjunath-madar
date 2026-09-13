@@ -1,10 +1,8 @@
 # Hi, I'm Manjunath 👋
 
-I'm a 2nd-year Computer Science Engineering student focused on
-Java, DSA, and Web Development.
+I'm a 2nd-year Computer Science Engineering student focused on Java, DSA, and Web Development.
 
-I enjoy solving problems, learning new technologies, and building
-projects to improve my development skills.
+I enjoy solving problems, learning new technologies, and building projects to improve my development skills.
 
 ### What I'm Learning
 
@@ -18,8 +16,16 @@ Java • C • JavaScript • HTML • CSS • Git • GitHub
 
 ### Projects
 
-I build small projects while learning and gradually work toward
-larger real-world applications.
+I build small projects while learning and gradually work toward larger real-world applications.
+
+### Achievements
+
+- 🏆 LeetCode 50 Days Badge — 2026
+
+### Profiles
+
+- 💻 [GitHub](https://github.com/manjunath-madar)
+- 🧩 [LeetCode](https://leetcode.com/u/Manju-m18_/)
 
 ### Currently
 
