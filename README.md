@@ -24,7 +24,7 @@ I build small projects while learning and gradually work toward larger real-worl
 
 ### Profiles
 
-- 💻 [GitHub](https://github.com/manjunath-madar)
+- 💻 [Linkedin](https://www.linkedin.com/in/manjunath-madar/)
 - 🧩 [LeetCode](https://leetcode.com/u/Manju-m18_/)
 
 ### Currently
